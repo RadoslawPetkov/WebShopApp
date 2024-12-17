@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20241217092546_InitialMigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebShopApp.Infrastructure\\Migrations\\20241217092546_InitialMigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp.infrastructure\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp.infrastructure\\data\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp.infrastructure\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp.infrastructure\\data\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp.infrastructure\\data\\domain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp.infrastructure\\webshopapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B919AA31-DB03-4F74-9BE0-F968BE0CADC3}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\webshopapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\webshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\webshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\documents\\kuchetounase_zloasinjiramukitajski\\webshopapp\\webshopapp\\webshopapp\\webshopapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{07B38F78-57AB-4BE5-A13C-8EFB415A5B4E}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\webshopapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241217092546_InitialMigrate.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20241217092546_InitialMigrate.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Migrations\\20241217092546_InitialMigrate.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\20241217092546_InitialMigrate.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Migrations\\20241217092546_InitialMigrate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:25:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:18:23.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Order.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Order.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Order.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:33:13.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Product.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:27:35.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:24:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:22:12.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebShopApp.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T08:02:24.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:55:42.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeToolTip": "WebShopApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:09:39.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebShopApp",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeDocumentMoniker": "WebShopApp\\WebShopApp.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeToolTip": "WebShopApp\\WebShopApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T08:02:08.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "WebShopApp\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "WebShopApp\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T08:01:46.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebShopApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebShopApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T08:01:43.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebShopApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebShopApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-17T08:01:29.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "WebShopApp\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "WebShopApp\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-12-17T08:01:35.989Z",
+              "EditorCaption": " -  [English (United States)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebShopApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebShopApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T08:01:26.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:01:14.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:01:13.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:01:11.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:01:10.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:01:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebShopApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\appsettings.json",
+              "RelativeToolTip": "WebShopApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T07:09:40.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:01:04.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:01:02.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:01:01.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:00:58.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebShopApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:00:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WebShopApp",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeDocumentMoniker": "WebShopApp\\WebShopApp.csproj",
+              "ToolTip": "C:\\Users\\Student\\Documents\\KuchetoUnasE_ZloASinjiraMuKitajski\\WebShopApp\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeToolTip": "WebShopApp\\WebShopApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T08:00:03.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
