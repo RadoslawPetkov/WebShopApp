@@ -12,3 +12,4 @@ C:\Users\Student\Documents\KuchetoUnasE_ZloASinjiraMuKitajski\WebShopApp\WebShop
 C:\Users\Student\Documents\KuchetoUnasE_ZloASinjiraMuKitajski\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.pdb
 C:\Users\Student\Documents\KuchetoUnasE_ZloASinjiraMuKitajski\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.genruntimeconfig.cache
 C:\Users\Student\Documents\KuchetoUnasE_ZloASinjiraMuKitajski\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\Student\Documents\KuchetoUnasE_ZloASinjiraMuKitajski\WebShopApp\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.sourcelink.json
